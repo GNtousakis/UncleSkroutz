@@ -11,5 +11,3 @@ if (argv.page === undefined) {
    	crawler.scrapPage(argv.page);
 };
 
-
-
