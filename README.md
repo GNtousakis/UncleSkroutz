@@ -1,8 +1,8 @@
 # UncleSkroutz
 
-[![UncleSkroutz](https://raw.githubusercontent.com/GNtousakis/UncleSkroutz/master/gif/example.gif?token=ALVM6BYS2QQLHZDIQCFLD6S6G4YVW)]()
-
 __An easy to use cli price tracker app__ 
+
+[![UncleSkroutz](https://raw.githubusercontent.com/GNtousakis/UncleSkroutz/master/gif/example.gif?token=ALVM6BYS2QQLHZDIQCFLD6S6G4YVW)]()
 
 Store links, prices from products that interest you.
 Currently supports amazon, bookdepository.
