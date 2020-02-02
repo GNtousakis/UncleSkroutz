@@ -1,7 +1,6 @@
-[![UncleSkroutz](https://raw.githubusercontent.com/GNtousakis/UncleSkroutz/master/gif/example.gif?token=ALVM6BYS2QQLHZDIQCFLD6S6G4YVW)]()
-
-
 # UncleSkroutz
+
+[![UncleSkroutz](https://raw.githubusercontent.com/GNtousakis/UncleSkroutz/master/gif/example.gif?token=ALVM6BYS2QQLHZDIQCFLD6S6G4YVW)]()
 
 __An easy to use cli price tracker app__ 
 
