@@ -12,6 +12,10 @@ const argv = require('yargs')
     'run': {
       alias: 'r',
       describe: 'run price tracker for latest prices'
+    },
+    'display': {
+      alias: 'd',
+      describe: 'show price history of a specific product'
     }
   	})
 	.argv;
@@ -34,3 +38,6 @@ if (argv.run != undefined) {
 	utils.getLatestPrices();
 }
 
+if (argv.display != undefined && argv.display != true) {
+	utils.getPriceHistory(argv.display);
+}
