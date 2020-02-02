@@ -1,0 +1,37 @@
+{
+  "name": "uncleskroutz",
+  "version": "1.0.0",
+  "description": "An easy to use cli price tracker",
+  "main": "uncleSkroutz.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "ora": "^4.0.3",
+    "request": "^2.88.0",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GNtousakis/UncleSkroutz.git"
+  },
+  "keywords": [
+    "price",
+    "cli",
+    "tracker",
+    "price-tracker",
+    "amazon",
+    "bookdepository"
+  ],
+  "author": "Grigoris Ntousakis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GNtousakis/UncleSkroutz/issues"
+  },
+  "homepage": "https://github.com/GNtousakis/UncleSkroutz#readme"
+}
