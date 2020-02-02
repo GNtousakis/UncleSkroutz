@@ -18,7 +18,7 @@ $ git clone https://github.com/GNtousakis/UncleSkroutz
 
 - Add products from amazon or bookdepository 
 - Check for new prices
-- Stores the prices
+- Store the prices localy
 - Display current and old prices
 
 ## Usage
