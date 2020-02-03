@@ -10,8 +10,6 @@ You can easily program the crawler for any site you like.
 
 ## Installation
 
-Install with: `$ npm install uncleskroutz`. (Add `-g` for global install).
-
 ### Clone
 
 ```shell
