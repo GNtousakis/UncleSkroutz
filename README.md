@@ -29,16 +29,16 @@ $ git clone https://github.com/GNtousakis/UncleSkroutz
 
 ```shell
 $ # Add new product
-$ uncleSkroutz.js --add = (link)
+$ uncleSkroutz --add =(link)
 $
 $ # Run the price checker
-$ uncleSkroutz.js --run
+$ uncleSkroutz --run
 $
 $ # Display all products from memory
-$ uncleSkroutz.js --show 
+$ uncleSkroutz --show 
 $
 $ # Display a specific product
-$ uncleSkroutz.js --display = (name of product)
+$ uncleSkroutz --display =(name of product)
 ```
 
 
