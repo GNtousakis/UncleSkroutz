@@ -1,8 +1,11 @@
 {
   "name": "uncleskroutz",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "An easy to use cli price tracker",
   "main": "uncleSkroutz.js",
+  "bin": {
+    "uncleskroutz" : "./uncleSkroutz.js"
+  },
   "directories": {
     "lib": "lib"
   },
