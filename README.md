@@ -14,7 +14,8 @@ You can easily program the crawler for any site you like.
 
 ```shell
 $ git clone https://github.com/GNtousakis/UncleSkroutz
-
+$ cd UncleSkroutz/
+$ npm install
 ```
 ## Features
 
